@@ -2,33 +2,33 @@
   "Doctors": [
     {
       "id": 1,
-      "name": "Dr. John Smith",
+      "name": "Dr. Rajesh Deshmukh",
       "expertise": "Orthopedic Surgeon",
-      "city": "New York"
+      "city": "Pune"
     },
     {
       "id": 2,
-      "name": "Dr. Emily Johnson",
+      "name": "Dr. Priya Patel",
       "expertise": "Cardiologist",
-      "city": "Los Angeles"
+      "city": "Mumbai"
     },
     {
       "id": 3,
-      "name": "Dr. Robert Davis",
+      "name": "Dr. Sunil Joshi",
       "expertise": "Dermatologist",
-      "city": "Chicago"
+      "city": "Nagpur"
     },
     {
       "id": 4,
-      "name": "Dr. Sarah White",
+      "name": "Dr. Aishwarya Shah",
       "expertise": "Pediatrician",
-      "city": "Houston"
+      "city": "Nashik"
     },
     {
       "id": 5,
-      "name": "Dr. Michael Brown",
+      "name": "Dr. Aniket Kumar",
       "expertise": "Neurologist",
-      "city": "San Francisco"
+      "city": "Aurangabad"
     }
   ]
  
