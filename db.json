@@ -34,21 +34,21 @@
  "users":[
   {
     "id": 1,
-    "username": "doctor1",
+    "username": "doctor@doctor.com",
     "role": "doctor",
-    "password": "password1",
+    "password": "password1"
   },
   {
     "id": 2,
-    "username": "salesperson1",
+    "username": "salesperson@sales.com",
     "role": "salesperson",
-    "password": "password2",
+    "password": "password2"
   },
   {
     "id": 3,
-    "username": "customer1",
+    "username": "customer@customer.com",
     "role": "customer",
-    "password": "password3",
+    "password": "password3"
   }
  ]
   
