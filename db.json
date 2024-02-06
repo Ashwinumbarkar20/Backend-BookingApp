@@ -30,7 +30,26 @@
       "expertise": "Neurologist",
       "city": "Aurangabad"
     }
-  ]
- 
+  ],
+ "users":[
+  {
+    "id": 1,
+    "username": "doctor1",
+    "role": "doctor",
+    "password": "password1",
+  },
+  {
+    "id": 2,
+    "username": "salesperson1",
+    "role": "salesperson",
+    "password": "password2",
+  },
+  {
+    "id": 3,
+    "username": "customer1",
+    "role": "customer",
+    "password": "password3",
+  }
+ ]
   
 }
