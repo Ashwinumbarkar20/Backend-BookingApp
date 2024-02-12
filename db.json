@@ -49,7 +49,13 @@
     "username": "customer@customer.com",
     "role": "customer",
     "password": "password3"
-  }
+  },
+   {
+     "id": 4,
+    "username": "SunilJoshi@doctor.com",
+    "role": "doctor",
+    "password": "password3" 
+   }
  ]
   
 }
